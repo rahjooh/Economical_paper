@@ -12,4 +12,4 @@ UpperBand1 = 1
 LowerBand2 = 0
 UpperBand2 = 1
 
-iteration = 1000000
+iteration = 100000
